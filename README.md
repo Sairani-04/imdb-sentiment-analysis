@@ -13,7 +13,7 @@ This project analyzes sentiment (positive/negative) in IMDB movie reviews using 
 ## Project Structure  
 **imdb-sentiment-analysis**  
 - **sentiment_analysis.ipynb** – Jupyter Notebook with model training & evaluation  
-- **imdb_reviews.csv** – Dataset (IMDB reviews with sentiment labels)  
+- **sample_imdb_reviews.csv** – Dataset (IMDB reviews with sentiment labels)  
 - **README.md** – Project documentation  
 - **requirements.txt** – Python dependencies  
 
